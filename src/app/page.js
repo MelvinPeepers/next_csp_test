@@ -23,7 +23,7 @@ export default function Home() {
         <div className={styles.ctas}>
           <a
             className={styles.primary}
-            href="https://netlify.com"
+            href="https://docs.netlify.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
